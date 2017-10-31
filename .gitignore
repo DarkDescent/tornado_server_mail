@@ -1,0 +1,51 @@
+*.py[cod]
+
+# C extensions
+# *.so
+
+# Packages
+*.egg
+!pycharm-debug.egg
+*.egg-info
+*.prov_pickle
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project/
+.pydevproject/
+.idea/
+.vagrant/
+# Logs
+*.log
+
+# MacosX temp file
+._.DS_Store
+.DS_Store
+
+VERSION.cur
+perfdump.db
+.gitmodules
+venv/
